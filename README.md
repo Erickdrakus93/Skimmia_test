@@ -1,4 +1,6 @@
-##SKIMMIA's test
+#SKIMMIA's test
+
+##Descripción de la solución. 
 
 Usando la noción de subrutina, usamos solo un $if$, en cada una.
 Usando una lógica interna en cada condicional.
