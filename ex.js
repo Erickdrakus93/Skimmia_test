@@ -18,6 +18,7 @@ function multiple_of_3_and_5(i){
 }
 
 //here we call the function without logic inside
+//here for the testing we use n=100.
 
 function main(n){
   for (var i = 1; i <=n; i++) {
